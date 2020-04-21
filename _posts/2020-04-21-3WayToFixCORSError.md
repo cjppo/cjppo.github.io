@@ -28,7 +28,9 @@ tags:
 
 
 
+
 必须说，我们在页面程序代码中用到各种API时，这个bug出现的太多了。每次碰到这个bug，内心都是如图所示：
+
 
 ![img](https://miro.medium.com/max/1000/1*vP1drWY1myDhV99P9YHhGg.png)
 
@@ -36,7 +38,9 @@ tags:
 
 
 ## **第一种方法：安装一个Allow-Control-Allow-Origin插件**
+
 最简单粗暴的解决方法就是安装一个插件：[moesif CORS extension](https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc?hl=en-US)。打开链接，安装好插件，在你的浏览器中启用插件（插件图标变为了"on"）。
+
 
 
 刷新你的页面，就可以正常访问API了。🎉
