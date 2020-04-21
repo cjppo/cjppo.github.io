@@ -15,10 +15,13 @@ tags:
 
 # 【译】3种解决CORS错误的方式与Access-Control-Allow-Origin的作用原理
 
-
+<br>
+<br>
+<br>
 *&ensp;本文翻译自：
 [3 Ways to Fix the CORS Error — and How the Access-Control-Allow-Origin Header Works](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9)
-
+<br>
+<br>
 
 ## **CORS错误是什么**
 
