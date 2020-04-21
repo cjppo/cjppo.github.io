@@ -188,7 +188,7 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`listening on ${PORT}`));
 ```
 
-<font size=1>If you want to see this in action, head to the source code for the above, along with relevant steps in the README: [https://github.com/15Dkatz/beat-cors-server](https://github.com/15Dkatz/beat-cors-server)</font>
+*If you want to see this in action, head to the source code for the above, along with relevant steps in the README: [https://github.com/15Dkatz/beat-cors-server](https://github.com/15Dkatz/beat-cors-server)*
 
 
 这段代码的工作原理是：利用了express中间件把服务端返回的所有返回结果都添加了
